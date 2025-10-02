@@ -2,7 +2,7 @@
 
 Please download to view video demonstration of Weather Apps.
 
-If you need a code, please don’t hesitate to ask.
+If you would like to review my code, please feel free to reach out, I’d be glad to provide access upon request.
 
 Assignment 1: HTML, CSS
 
